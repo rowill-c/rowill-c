@@ -1,4 +1,6 @@
-<h1 align="center">Hey 👋, I'm Joshua Koa</h1>
+![github-header-image (4)](https://github.com/rowill-c/rowill-c/assets/75282233/9e682b7c-f7da-4dee-8576-38bc5627bb8f)
+
+<h1 align="center">About Me ✒️ </h1>
 <h3 align="center">I have a passion for transforming complex data into meaningful insights.</h3>
 <img align="right" alt="Data" width="300" src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif">
 
