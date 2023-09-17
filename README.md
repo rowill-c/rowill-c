@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking for help with **learning to become a data engineer.**
 
-- 📝 I regularly read articles on [Machine Learning and Artificial Intelligence](Machine Learning and Artificial Intelligence)
+- 📝 I regularly read articles on (Machine Learning and Artificial Intelligence)
 
 - 📫 How to reach me **jkoa32@gmail.com**
 
