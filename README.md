@@ -1,16 +1,16 @@
 ![github-header-image (4)](https://github.com/rowill-c/rowill-c/assets/75282233/9e682b7c-f7da-4dee-8576-38bc5627bb8f)
 
 <h1 align="center">About Me ✒️ </h1>
-<h3 align="center">I have a passion for transforming complex data into meaningful insights.</h3>
+<h3 align="center">I have a passion for solving complex challenges and making an impact in people's lives.</h3>
 <img align="right" alt="Data" width="300" src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rowill-c&label=Profile%20views&color=0e75b6&style=flat" alt="rowill-c" /> </p>
 
 - 🔭 I’m currently working on **Healthcare Databases**
 
-- 🌱 I’m currently learning **MySQL and Python**
+- 🌱 I’m currently learning **Kali Linux and Blue Teaming**
 
-- 🤝 I’m looking for help with **learning to become a data engineer.**
+- 🤝 I’m looking for help with **pivoting my career into IT.**
 
 - 📝 I regularly read articles on (Machine Learning and Artificial Intelligence)
 
