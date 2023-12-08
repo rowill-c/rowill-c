@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Kali Linux and Blue Teaming**
 
-- 🤝 I’m looking for help with **pivoting my career into IT.**
+- 🤝 I’m looking for help with **growing my data skills.**
 
 - 📝 I regularly read articles on (Machine Learning and Artificial Intelligence)
 
